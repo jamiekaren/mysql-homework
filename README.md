@@ -15,7 +15,9 @@ _Programming Languages_
 - Node.js
 - mySQL
 
-This app implements the use of mySQL, creating a database of products with various quantities, and uses Node.js to allow the user to interact with this database, including impementing CRUD fuctions.
+This app implements the use of mySQL, creating a database of products with various quantities, and uses Node.js to allow the user to interact with this database, including impementing CRUD fuctions. The user is able to input an ID of a product they wish to buy, as well as how many of that product. If there is sufficient quantity, the app will then update the database with the new quantity and give the user their price based on the dollar value and how many they bought.
+
+If the asking quantity surpasses the inventory, the user is unable to purchase and an "insufficient quantity" message is displayed.
 
 <hr>
 
