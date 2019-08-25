@@ -3,6 +3,8 @@
 At Bamazon we sell an wide array of items in categories from houseware, tech, office, clothing and more. Feel free to use our app the browse our current inventory and purchase something new and exciting for yourself (after all you deserve it!).
 
 ![App Screen shot](https://github.com/jamiekaren/mysql-homework/blob/master/assets/bamazon01.jpg)
+<br>
+![2nd App Screen shot](https://github.com/jamiekaren/mysql-homework/blob/master/assets/nostock01.jpg)
 
 
 <hr>
